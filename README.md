@@ -1,9 +1,8 @@
-<<<<<<< HEAD
 # RedUsers
 Simple user management app using Node.js and Redis
 
 ### Version
-1.0.0
+0.0.1
 
 ## Usage
 
@@ -26,4 +25,3 @@ Visit http://localhost:3000
 =======
 # NodeRedisSample
 The sample of Node.js + Redis for user management
->>>>>>> a78618d41c06dd016b86368e80adbf4800d866b2
